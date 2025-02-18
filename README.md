@@ -55,4 +55,4 @@ npx cypress open
 
 Option 2: Run Tests in Headless Mode
 
-npm run dev:test
+npm run dev:test# food-menu
